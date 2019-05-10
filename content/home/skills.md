@@ -15,6 +15,11 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Psychology"  
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
@@ -33,5 +38,11 @@ subtitle = ""
   icon = "mobile-alt"
   icon_pack = "fas"
   name = "Experience Sampling Methods"
+  
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Visualization"  
+
 
 +++
