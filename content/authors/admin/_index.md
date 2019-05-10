@@ -21,7 +21,7 @@ organizations:
 bio: As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age. 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "susac@umich.edu"
+email = ""
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
