@@ -18,11 +18,6 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Psychology"  
-
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
   
 [[feature]]
   icon = "chart-line"
@@ -35,14 +30,21 @@ subtitle = ""
   name = "Survey Design"
   
 [[feature]]
+  icon = "chart-area"
+  icon_pack = "fas"
+  name = "Data Visualization"  
+  
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R" 
+ 
+[[feature]]
   icon = "mobile-alt"
   icon_pack = "fas"
   name = "Experience Sampling Methods"
   
-[[feature]]
-  icon = "chart-area"
-  icon_pack = "fas"
-  name = "Data Visualization"  
+
 
 
 +++
