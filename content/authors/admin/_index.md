@@ -31,13 +31,13 @@ interests:
 education:
   courses:
   - course: Ph.D. Student in Social Psychology
-    institution: [University of Michigan - Ann Arbor](https://lsa.umich.edu/psych/program-areas/social-psychology.html)
+    institution: University of Michigan - Ann Arbor
     year: 2017-present
   - course: Graduate Certificate Student in Data Science
-    institution: [University of Michigan - Ann Arbor](https://midas.umich.edu/certificate/)
+    institution: University of Michigan - Ann Arbor
     year: 2017-present
   - course: B.S. in Psychology
-    institution: [Yale University](https://psychology.yale.edu/)
+    institution: Yale University
     year: 2014
     
 # Social/Academic Networking
