@@ -10,26 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: "Ph.D. student in social psychology"
+role: Ph.D. student in social psychology
 
 # Organizations/Affiliations
-#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Michigan", url = "https://lsa.umich.edu/psych" } ]
+organizations:
+- name: University of Michigan
+  url: "https://lsa.umich.edu/psych"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age."
+bio: As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age.
 
-# List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "Ph.D. Student in Social Psychology"
-  institution = "University of Michigan"
-  year = 2017 - 2022 (expected)
-
-[[education.courses]]
-  course = "B.S. in Psychology "
-  institution = "Yale University"
-  year = 2014
-
+education:
+  courses:
+  - course: Ph.D. Student in Social Psychology
+    institution: University of Michigan - Ann Arbor
+    year: 2017-present
+  - course: Graduate Certificate Student in Data Science
+    institution: University of Michigan - Ann Arbor
+    year: 2017-present
+  - course: B.S. in Psychology
+    institution: Yale University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
