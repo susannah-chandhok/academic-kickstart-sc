@@ -21,7 +21,11 @@ organizations:
 bio: As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age.
 
 # Interests
-interests: social media, well-being, emotional regulation, self-control
+interests: 
+- social media
+- well-being 
+- emotional regulation
+- self-control
 
 # Education 
 education:
