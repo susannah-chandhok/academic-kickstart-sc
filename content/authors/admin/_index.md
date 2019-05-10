@@ -10,15 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student in social psychology
+role: "Ph.D. student in social psychology"
 
 # Organizations/Affiliations
-organizations:
-- name: University of Michigan 
-  url: "https://lsa.umich.edu/psych"
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations = [ { name = "University of Michigan", url = "https://lsa.umich.edu/psych" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio: As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age. 
+bio: "As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age."
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
