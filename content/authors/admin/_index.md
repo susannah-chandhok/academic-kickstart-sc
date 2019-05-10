@@ -20,12 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age.
 
-# List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "Ph.D. Student in Social Psychology"
-  institution = "University of Michigan"
-  year = 2017 - Present
+# Interests
+interests: social media, well-being, emotional regulation, self-control
 
+# Education 
+education:
+  courses:
+  - course: Ph.D. Student in Social Psychology
+    institution: [University of Michigan - Ann Arbor](https://lsa.umich.edu/psych/program-areas/social-psychology.html)
+    year: 2017-present
+  - course: Graduate Certificate Student in Data Science
+    institution: [University of Michigan - Ann Arbor](https://midas.umich.edu/certificate/)
+    year: 2017-present
+  - course: B.S. in Psychology
+    institution: [Yale University](https://psychology.yale.edu/)
+    year: 2014
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
