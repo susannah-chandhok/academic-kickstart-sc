@@ -24,13 +24,13 @@ education:
   courses:
   - course: Ph.D. Student in Social Psychology
     institution: University of Michigan - Ann Arbor
-    year: _2017-present_
+    year: 2017-present
   - course: Graduate Certificate Student in Data Science
     institution: University of Michigan - Ann Arbor
-    year: _2017-present_
+    year: 2017-present
   - course: B.S. in Psychology
     institution: Yale University
-    year: _2014_
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
