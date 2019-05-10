@@ -20,9 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: As a graduate researcher and Ph.D. student at the University of Michigan in Ann Arbor, I study social behavior in the digital age. 
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
-
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "Ph.D. Student in Social Psychology"
