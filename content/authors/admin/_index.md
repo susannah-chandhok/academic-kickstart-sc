@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student in social psychology
+role: Ph.D. Student in Social Psychology
 
 # Organizations/Affiliations
 organizations:
@@ -24,13 +24,13 @@ education:
   courses:
   - course: Ph.D. Student in Social Psychology
     institution: University of Michigan - Ann Arbor
-    year: 2017-present
+    year: _2017-present_
   - course: Graduate Certificate Student in Data Science
     institution: University of Michigan - Ann Arbor
-    year: 2017-present
+    year: _2017-present_
   - course: B.S. in Psychology
     institution: Yale University
-    year: 2014
+    year: _2014_
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
